@@ -81,7 +81,7 @@ Certainly! Here are instructions for users to get started with your Typing Tutor
 
 These instructions should help users get started with your Typing Tutor project. Be sure to provide any specific details relevant to your project's setup, and make any necessary adjustments if you're using a different programming language or development environment.
 
-### Prerequisites
+## Prerequisites
 
 For a basic console-based Typing Tutor project in C, there are typically minimal prerequisites or dependencies. However, it's essential to inform users of these requirements to ensure a smooth experience. Here are the prerequisites:
 
