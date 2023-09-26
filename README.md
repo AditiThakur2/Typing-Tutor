@@ -2,7 +2,7 @@
 
 The Typing Tutor Project is a simple, console-based typing practice application in C. It helps users improve their typing speed and accuracy by providing sentences to type accurately within a time limit.
 
-![Demo](demo.gif) (You can include a screenshot or GIF of your project here.)
+Screenshot (51).png
 
 
 ## About
