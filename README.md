@@ -1,7 +1,16 @@
 # Typing Tutor 
 
-The Typing Tutor Project is a simple, console-based typing practice application in C. It helps users improve their typing speed and accuracy by providing sentences to type accurately within a time limit.
+Typing is the basic command to run a computer and your typing speed plays a vital role while working in a computer to save time. Here I have presented a Typing Tutor Project in C to measure users’ typing speed and enhance their typing speed. This is a simple console application written in C programming language and compiled using GNU GCC compiler on Code::Blocks IDE.
 
+## Demo
+
+![Screenshot (51)](https://github.com/AditiThakur2/Typing-Tutor/assets/90636698/3aa6e308-38f6-4f81-862f-dab39ea2b76e)
+
+![Screenshot (52)](https://github.com/AditiThakur2/Typing-Tutor/assets/90636698/bad06550-616c-4607-b0ad-7b8ec1d5ae6d)
+
+![Screenshot (53)](https://github.com/AditiThakur2/Typing-Tutor/assets/90636698/07b4b304-1380-467d-812f-be6c7d2a29d1)
+
+![Screenshot (54)](https://github.com/AditiThakur2/Typing-Tutor/assets/90636698/90c567ed-e614-45eb-81a8-053005a9a719)
 
 
 ## About
@@ -87,10 +96,4 @@ For a basic console-based Typing Tutor project in C, there are typically minimal
 
 These are the basic prerequisites for a simple C-based Typing Tutor project. Be sure to specify the programming language and any additional dependencies if you're using a different technology stack or development environment. 
 
-### Installation
 
-Step-by-step instructions for installing and running the Typing Tutor. You can use code blocks to show commands:
-
-```bash
-gcc typing_tutor.c -o typing_tutor
-./typing_tutor
